@@ -71,6 +71,7 @@ nav ul li a:hover,
 
 .card{
     background:white;
+    text-decoration: black;
     margin:20px 0;
     padding:20px;
     border-radius:10px;
